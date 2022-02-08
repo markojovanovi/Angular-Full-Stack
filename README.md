@@ -1,4 +1,4 @@
-# Angular Full Stack 
+# Angular Full Stack development
 [![](https://github.com/davideviolante/Angular-Full-Stack/workflows/Build/badge.svg)](https://github.com/DavideViolante/Angular-Full-Stack/actions?query=workflow%3ABuild) [![](https://github.com/davideviolante/Angular-Full-Stack/workflows/Tests/badge.svg)](https://github.com/DavideViolante/Angular-Full-Stack/actions?query=workflow%3ATests) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante)
 
 
